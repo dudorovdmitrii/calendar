@@ -1,0 +1,15 @@
+:root {
+    --red: #ff2f2f;
+    --black: #000;
+    --white: #fff;
+    --purple-light: #cdcdff82;
+    --purple-dark:#b1b1fe;
+    --grey-dark: #ccd0ed;
+    --grey-mid: #dfdfdf;
+    --grey-light: #f2f2f2;
+    --font-family: 'Roboto', sans-serif;
+    --small-font: 14px;
+    --regular-font: 16px;
+    --large-font: 20px;
+    --layout-max-width: 740px;
+}
